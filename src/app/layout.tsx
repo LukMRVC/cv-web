@@ -6,8 +6,8 @@ import Image from "next/image";
 
 
 export const metadata: Metadata = {
-  title: "John Doe - Web Developer",
-  description: "Personal CV website of John Doe, Web Developer",
+  title: "Lukáš Moravec",
+  description: "Personal CV website of Lukáš Moravec, a Software Developer",
 }
 
 const externalSites = [

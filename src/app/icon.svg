@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <!-- Background circle -->
+    <circle cx="16" cy="16" r="16" fill="#4ecdc4" />
+
+    <!-- Stylized letter (can be customized) -->
+    <text x="2" y="22" fill="white" font-family="Arial, sans-serif" font-weight="bold"
+        font-size="20">L</text>
+    <text x="13" y="22" fill="white" font-family="Arial, sans-serif" font-weight="bold"
+        font-size="20">M</text>
+
+    <!-- Decorative elements -->
+    <circle cx="16" cy="16" r="14" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.3" />
+    <circle cx="16" cy="16" r="11" fill="none" stroke="white" stroke-width="1" stroke-opacity="0.2" />
+</svg>
